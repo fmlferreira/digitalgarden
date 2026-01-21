@@ -3,15 +3,15 @@
 ---
 
 	Star Wars: Unlimited
-		Portugal
+
 
 [Click here for the English version]
 
 *Recursos para Star Wars: Unlimited com foco na comunidade portuguesa*
 
 * [Site oficial do jogo](https://starwarsunlimited.com/)
-* Aprender a jogar: https://www.youtube.com/watch?v=KCBH5EaW30E
-* Jogar online (clientes não oficiais)
+* Learn to play: https://www.youtube.com/watch?v=KCBH5EaW30E
+* Playing online (at the moment there are no official clients)
 	* [Karabast](https://karabast.net/)
 	* [Petranaki](https://petranaki.net/)
 	* [Force Table](https://www.forcetable.net/swu)
