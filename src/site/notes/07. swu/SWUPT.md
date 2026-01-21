@@ -22,7 +22,7 @@
 * [SWU Competitive Hub](https://www.swu-competitivehub.com/tournaments-results/)
 * [SWU Meta Stats](https://swumetastats.com/)
 * [SWU Base](https://swubase.com/)
-* 
+*  
 
 ---
 
